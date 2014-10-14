@@ -1,0 +1,5 @@
+1 - Colisao
+2 - Colocar as sprites dos carros
+3 - Ajeitar pontuacao
+4 - Colocar items pelo caminho
+5 - Ajeitar a estrada
